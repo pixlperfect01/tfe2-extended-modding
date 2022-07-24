@@ -1,1 +1,1 @@
-# tfe2-extended-modding
+# The Final Earth 2 - Extended Modding API
